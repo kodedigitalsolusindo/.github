@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Distribusi: Google Play, App Store, Huawei AppGallery, Samsung Galaxy Store, Xiaomi GetApps, Web/PWA">
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2563eb"/><stop offset="1" stop-color="#06b6d4"/></linearGradient>
+  </defs>
+  <style>
+    .f{font-family:'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif}
+    .h{font-size:13px;font-weight:700;fill:#93c5fd;letter-spacing:3px}
+    .p{font-size:16px;font-weight:600;fill:#fff}
+  </style>
+  <rect width="1200" height="150" rx="20" fill="#0b1630"/>
+  <text x="600" y="40" text-anchor="middle" class="f h">SIAP RILIS DI</text>
+  <g class="f" text-anchor="middle">
+    <g transform="translate(24,64)"><rect width="176" height="56" rx="12" fill="#13234a" stroke="#1e3a6b"/><circle cx="22" cy="28" r="5" fill="url(#brand)"/><text x="96" y="34" class="p">Google Play</text></g>
+    <g transform="translate(216,64)"><rect width="176" height="56" rx="12" fill="#13234a" stroke="#1e3a6b"/><circle cx="22" cy="28" r="5" fill="url(#brand)"/><text x="96" y="34" class="p">App Store</text></g>
+    <g transform="translate(408,64)"><rect width="190" height="56" rx="12" fill="#13234a" stroke="#1e3a6b"/><circle cx="22" cy="28" r="5" fill="url(#brand)"/><text x="104" y="34" class="p">Huawei AppGallery</text></g>
+    <g transform="translate(614,64)"><rect width="200" height="56" rx="12" fill="#13234a" stroke="#1e3a6b"/><circle cx="22" cy="28" r="5" fill="url(#brand)"/><text x="114" y="34" class="p" style="font-size:15px">Samsung Galaxy Store</text></g>
+    <g transform="translate(830,64)"><rect width="176" height="56" rx="12" fill="#13234a" stroke="#1e3a6b"/><circle cx="22" cy="28" r="5" fill="url(#brand)"/><text x="96" y="34" class="p">Xiaomi GetApps</text></g>
+    <g transform="translate(1022,64)"><rect width="154" height="56" rx="12" fill="#13234a" stroke="#1e3a6b"/><circle cx="22" cy="28" r="5" fill="url(#brand)"/><text x="85" y="34" class="p">Web / PWA</text></g>
+  </g>
+</svg>

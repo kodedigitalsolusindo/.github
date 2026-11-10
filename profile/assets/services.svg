@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-label="Layanan PT Kode Digital Solusindo">
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2563eb"/><stop offset="1" stop-color="#06b6d4"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#13234a"/><stop offset="1" stop-color="#0d1a36"/></linearGradient>
+    <symbol id="c" viewBox="0 0 376 215"><rect x=".5" y=".5" width="375" height="214" rx="16" fill="url(#card)" stroke="#1e3a6b"/><rect x="24" y="0" width="64" height="3" rx="1.5" fill="url(#brand)"/></symbol>
+  </defs>
+  <style>
+    .f{font-family:'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif}
+    .t{font-size:20px;font-weight:700;fill:#fff}
+    .d{font-size:15px;fill:#a5b4cc}
+    .i{fill:none;stroke:#fff;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round}
+  </style>
+  <rect width="1200" height="470" rx="20" fill="#0b1630"/>
+
+  <!-- 1 Mobile -->
+  <g transform="translate(16,16)">
+    <use href="#c" width="376" height="215"/>
+    <rect x="24" y="28" width="48" height="48" rx="12" fill="url(#brand)"/>
+    <g class="i" transform="translate(36,38)"><rect x="4" y="0" width="16" height="28" rx="3"/><path d="M10 23h4"/></g>
+    <text x="24" y="114" class="f t">Aplikasi Mobile</text>
+    <text class="f d"><tspan x="24" y="142">Android, iOS, dan HarmonyOS, native</tspan><tspan x="24" y="164">maupun lintas platform, siap rilis</tspan><tspan x="24" y="186">ke berbagai toko aplikasi.</tspan></text>
+  </g>
+  <!-- 2 Web -->
+  <g transform="translate(412,16)">
+    <use href="#c" width="376" height="215"/>
+    <rect x="24" y="28" width="48" height="48" rx="12" fill="url(#brand)"/>
+    <g class="i" transform="translate(34,40)"><rect x="0" y="0" width="28" height="22" rx="3"/><path d="M0 6h28M8 28h12M14 22v6"/></g>
+    <text x="24" y="114" class="f t">Aplikasi Web &amp; Dashboard</text>
+    <text class="f d"><tspan x="24" y="142">Website perusahaan, portal, dan panel</tspan><tspan x="24" y="164">admin untuk operasional bisnis yang</tspan><tspan x="24" y="186">cepat dan responsif.</tspan></text>
+  </g>
+  <!-- 3 Backend -->
+  <g transform="translate(808,16)">
+    <use href="#c" width="376" height="215"/>
+    <rect x="24" y="28" width="48" height="48" rx="12" fill="url(#brand)"/>
+    <g class="i" transform="translate(36,38)"><ellipse cx="12" cy="5" rx="11" ry="4.5"/><path d="M1 5v9c0 2.5 5 4.5 11 4.5S23 16.5 23 14V5M1 14v9c0 2.5 5 4.5 11 4.5S23 25.5 23 23v-9"/></g>
+    <text x="24" y="114" class="f t">Backend &amp; REST API</text>
+    <text class="f d"><tspan x="24" y="142">Server, database, otentikasi, tugas</tspan><tspan x="24" y="164">otomatis, dan fitur realtime</tspan><tspan x="24" y="186">(WebSocket) yang aman dan terukur.</tspan></text>
+  </g>
+  <!-- 4 UI/UX -->
+  <g transform="translate(16,239)">
+    <use href="#c" width="376" height="215"/>
+    <rect x="24" y="28" width="48" height="48" rx="12" fill="url(#brand)"/>
+    <g class="i" transform="translate(34,38)"><path d="M3 25 19 9l4 4L7 29H3z"/><path d="M16 12l4 4M22 2l4 4-3 3-4-4z"/></g>
+    <text x="24" y="114" class="f t">Desain UI/UX</text>
+    <text class="f d"><tspan x="24" y="142">Riset alur pengguna, wireframe, dan</tspan><tspan x="24" y="164">prototipe dengan tampilan konsisten</tspan><tspan x="24" y="186">yang mudah digunakan.</tspan></text>
+  </g>
+  <!-- 5 Publish -->
+  <g transform="translate(412,239)">
+    <use href="#c" width="376" height="215"/>
+    <rect x="24" y="28" width="48" height="48" rx="12" fill="url(#brand)"/>
+    <g class="i" transform="translate(35,38)"><path d="M13 2c6 3 9 9 9 16l-4 4H8l-4-4C4 11 7 5 13 2z"/><circle cx="13" cy="12" r="3"/><path d="M9 22l-2 6M17 22l2 6"/></g>
+    <text x="24" y="114" class="f t">Publikasi Aplikasi</text>
+    <text class="f d"><tspan x="24" y="142">Persiapan build, listing store,</tspan><tspan x="24" y="164">kebijakan privasi, dan pengajuan</tspan><tspan x="24" y="186">review di setiap platform.</tspan></text>
+  </g>
+  <!-- 6 Maintenance -->
+  <g transform="translate(808,239)">
+    <use href="#c" width="376" height="215"/>
+    <rect x="24" y="28" width="48" height="48" rx="12" fill="url(#brand)"/>
+    <g class="i" transform="translate(36,38)"><path d="M12 1 2 5v8c0 7 4.5 11.5 10 14 5.5-2.5 10-7 10-14V5z"/><path d="M7 14l4 4 6-7"/></g>
+    <text x="24" y="114" class="f t">Pemeliharaan &amp; Dukungan</text>
+    <text class="f d"><tspan x="24" y="142">Update keamanan, penyesuaian versi</tspan><tspan x="24" y="164">OS terbaru, perbaikan bug, dan</tspan><tspan x="24" y="186">pemantauan server.</tspan></text>
+  </g>
+</svg>

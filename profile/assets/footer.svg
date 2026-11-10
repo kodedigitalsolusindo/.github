@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Punya rencana aplikasi? Hubungi info@kodesolusindo.com atau kunjungi kodesolusindo.com">
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2563eb"/><stop offset="1" stop-color="#06b6d4"/></linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#fff" opacity=".18"/></pattern>
+  </defs>
+  <style>.f{font-family:'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif}</style>
+  <rect width="1200" height="200" rx="20" fill="url(#brand)"/>
+  <rect width="1200" height="200" rx="20" fill="url(#dots)"/>
+  <svg x="64" y="56" width="88" height="88" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="16" fill="#ffffff" fill-opacity=".16" stroke="#fff" stroke-opacity=".5"/>
+    <path d="M24 20 13 32l11 12" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M40 20l11 12-11 12" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity=".75"/>
+    <path d="M36 17 28 47" fill="none" stroke="#fff" stroke-width="4.5" stroke-linecap="round"/>
+  </svg>
+  <text x="180" y="92" class="f" font-size="30" font-weight="800" fill="#fff">Punya rencana aplikasi?</text>
+  <text x="180" y="126" class="f" font-size="18" fill="#e0f2fe">Ceritakan kebutuhan Anda, kami bantu susun solusi yang tepat.</text>
+  <g class="f" font-size="17" font-weight="700">
+    <rect x="860" y="52" width="280" height="42" rx="21" fill="#fff"/><text x="1000" y="79" text-anchor="middle" fill="#1d4ed8">info@kodesolusindo.com</text>
+    <rect x="860" y="106" width="280" height="42" rx="21" fill="none" stroke="#fff" stroke-width="2"/><text x="1000" y="133" text-anchor="middle" fill="#fff">kodesolusindo.com</text>
+  </g>
+</svg>
