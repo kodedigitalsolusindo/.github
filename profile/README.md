@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://kodesolusindo.com">
-  <img src="https://raw.githubusercontent.com/kodedigitalsolusindo/.github/main/profile/assets/banner.svg" alt="PT Kode Digital Solusindo — Software House Medan, Indonesia" width="100%">
+  <img src="https://raw.githubusercontent.com/kodedigitalsolusindo/.github/refs/heads/main/profile/assets/banner.svg" alt="PT Kode Digital Solusindo — Software House Medan, Indonesia" width="100%">
 </a>
 
 <br>
@@ -22,11 +22,11 @@
 
 ## 🧩 Layanan
 
-<img src="https://raw.githubusercontent.com/kodedigitalsolusindo/.github/main/profile/assets/services.svg" alt="Layanan: Aplikasi Mobile, Aplikasi Web & Dashboard, Backend & REST API, Desain UI/UX, Publikasi Aplikasi, Pemeliharaan & Dukungan" width="100%">
+<img src="https://raw.githubusercontent.com/kodedigitalsolusindo/.github/refs/heads/main/profile/assets/services.svg" alt="Layanan: Aplikasi Mobile, Aplikasi Web & Dashboard, Backend & REST API, Desain UI/UX, Publikasi Aplikasi, Pemeliharaan & Dukungan" width="100%">
 
 ## 🔄 Cara Kami Bekerja
 
-<img src="https://raw.githubusercontent.com/kodedigitalsolusindo/.github/main/profile/assets/workflow.svg" alt="Alur kerja: Analisis Kebutuhan → Desain & Prototipe → Pengembangan & Pengujian → Rilis & Dukungan" width="100%">
+<img src="https://raw.githubusercontent.com/kodedigitalsolusindo/.github/refs/heads/main/profile/assets/workflow.svg" alt="Alur kerja: Analisis Kebutuhan → Desain & Prototipe → Pengembangan & Pengujian → Rilis & Dukungan" width="100%">
 
 ## 🛠️ Teknologi
 
@@ -48,7 +48,7 @@
 
 ## 🚀 Distribusi
 
-<img src="https://raw.githubusercontent.com/kodedigitalsolusindo/.github/main/profile/assets/platforms.svg" alt="Siap rilis di Google Play, App Store, Huawei AppGallery, Samsung Galaxy Store, Xiaomi GetApps, dan Web/PWA" width="100%">
+<img src="https://raw.githubusercontent.com/kodedigitalsolusindo/.github/refs/heads/main/profile/assets/platforms.svg" alt="Siap rilis di Google Play, App Store, Huawei AppGallery, Samsung Galaxy Store, Xiaomi GetApps, dan Web/PWA" width="100%">
 
 ## 📍 Kantor
 
@@ -61,7 +61,7 @@
 <br>
 
 <a href="mailto:info@kodesolusindo.com">
-  <img src="https://raw.githubusercontent.com/kodedigitalsolusindo/.github/main/profile/assets/footer.svg" alt="Punya rencana aplikasi? Hubungi info@kodesolusindo.com" width="100%">
+  <img src="https://raw.githubusercontent.com/kodedigitalsolusindo/.github/refs/heads/main/profile/assets/footer.svg" alt="Punya rencana aplikasi? Hubungi info@kodesolusindo.com" width="100%">
 </a>
 
 <div align="center">
