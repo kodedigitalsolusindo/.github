@@ -55,7 +55,7 @@
 
 | | |
 |---|---|
-| 🏢 **Alamat** | Jln Gatot Subroto KM 4 No 36, Kel. Sei Sikambing C II, Kec. Medan Helvetia, Medan 20123, Sumatera Utara |
+| 🏢 **Lokasi** | Medan, Sumatera Utara - Indonesia |
 | 🕘 **Jam kerja** | Senin–Jumat, 09.00–17.00 WIB |
 | 🌏 **Area layanan** | Seluruh Indonesia (online) & klien internasional |
 
