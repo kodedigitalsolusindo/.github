@@ -11,6 +11,7 @@
 <a href="https://www.youtube.com/@KodeDigitalSolusindo"><img src="https://img.shields.io/badge/YouTube-Kode%20Digital%20Solusindo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://www.instagram.com/kodedigitalsolusindo"><img src="https://img.shields.io/badge/Instagram-@kodedigitalsolusindo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/profile.php?id=61596067453401"><img src="https://img.shields.io/badge/Facebook-PT%20Kode%20Digital%20Solusindo-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.linkedin.com/company/kode-digital-solusindo"><img src="https://img.shields.io/badge/LinkedIn-Kode%20Digital%20Solusindo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </div>
 
